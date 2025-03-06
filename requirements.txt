@@ -1,0 +1,14 @@
+torch
+tensorflow==2.6.0
+transformers
+scikit-learn
+numpy
+pandas
+tqdm
+matplotlib
+hdbscan
+geopandas
+shapely
+umap-learn
+wordcloud
+nltk
