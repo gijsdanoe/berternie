@@ -57,7 +57,7 @@ test_df = r'data/train_test/test_df.csv'
 test_vec = r"data/train_test/test_set.npy"
 
 # model paths
-autoencoder = r'models/autoencoder_model.h5'
+autoencoder = r'models/autoencoder/autoencoder_model.h5'
 bertje = r'models/bertje/'
 opus = r'models/opus_nl_en/'
 
