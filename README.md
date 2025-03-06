@@ -8,6 +8,21 @@ Repository for the BERT and ERNIE framework for the anomaly detection and cluste
 - `results/` → Clustering results.
 - `src/` → All source code.
 
+## License
+
+This project is licensed under the **GNU General Public License v2 (GPL v2)**.  
+You are free to use, modify, and distribute this software under the terms of the **GPL-2.0** license.
+
+See the [LICENSE](./LICENSE) file for full details.
+
+### Summary of GPL v2:
+- ✅ **You may** use and modify this project for personal and commercial purposes.
+- ✅ **You may** distribute copies, but they must also be licensed under **GPL v2**.
+- ❌ **You may not** use this software for patent-related claims.
+- ❌ **There is no warranty**—use at your own risk.
+
+For more details, visit the **[GNU GPL v2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)** page.
+
 # Setup
 
 ## Install dependencies
