@@ -2,22 +2,22 @@
 
 Repository for the BERT and ERNIE framework for the anomaly detection and clustering of infectious disease-related GP texts.
 
-## Setup
+# Setup
 
-# Install dependencies
+## Install dependencies
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
-# Run setup.py
+## Run setup.py
 
-python setup.py
+```python setup.py```
 
 This will install all necessary models: BERTje, OPUS nl-en and NLTK.
 
-# Configuration
+## Configuration
 
 All configurations and paths are set in the config.py file. If needed, modify. Then run:
 
-python3 config.py
+```python3 config.py```
 
 
