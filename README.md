@@ -4,7 +4,7 @@ Repository for the BERT and ERNIE framework for the anomaly detection and cluste
 
 ## Project structure
 - `data/` → Raw, preprocessed, train and test, artificial and external data (stopwords and postal codes).
-- `models/` → Autoencoder model, BERTje, OPUS-MT and NLTK.
+- `models/` → Autoencoder model (trained on all data until December 2023), BERTje, OPUS-MT and NLTK.
 - `results/` → Clustering results.
 - `src/` → All source code.
 
