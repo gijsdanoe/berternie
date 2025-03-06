@@ -3,10 +3,12 @@
 Repository for the BERT and ERNIE framework for the anomaly detection and clustering of infectious disease-related GP texts.
 
 ## Project structure
-- `data/` → Raw, preprocessed, artificial and external data (stopwords and postal codes).
+- `data/` → Raw, preprocessed, train and test, artificial and external data (stopwords and postal codes).
 - `models/` → Autoencoder model, BERTje, OPUS-MT and NLTK.
 - `results/` → Clustering results.
 - `src/` → All source code.
+
+Due to privacy regulations, the real datasets cannot be shared.
 
 ## License
 
